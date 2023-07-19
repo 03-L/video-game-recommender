@@ -37,6 +37,12 @@ The tf-idf matrix is created beforehand (saved as a pickle) using the methods de
 ### Wikipedia Library
 I used the Wikipedia library to look up information on Wikipedia in real time. If a user mentions the name of a game, and a Wikipedia page for it exists, the program gets the genre and developer of the game and prints it out accordingly.
 
+### Sample Dialog Interactions
+![image](https://github.com/03-L/video-game-recommender/assets/57785413/8b1f3b7e-11ff-4668-a6bb-fb7c73ab5b61)
+
+![image](https://github.com/03-L/video-game-recommender/assets/57785413/13341063-a834-4577-9835-bb7f8325be4f)
+
+
 ### Personal Evaluation
 The chatbot is repetitive. The program is able to look up information about a video game in real time, but it is limited to Wikipedia, where some less popular games don’t have pages created. It would be nice to be able to have a long conversation regarding one game, where it talks about the specifics. As of now, the chatbot focuses more on asking the user questions and using the answers to give the user a recommendation.
 ****
